@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>ToDo App</title>
+        <link rel="stylesheet" href="style.css" />
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <h1>Grocery List</h1>
+        <form id="form">
+            <input
+                type="text"
+                id="input"
+                class="input"
+                placeholder="enter item"
+                autocomplete="off"
+            />
+            <ul class="groceries" id="groceries"></ul>
+        </form>
+        <br>
+        <input type="button" value="Clear All" onclick="removeAll()" id="clear">
+        <small
+            >Left click to toggle complete. <br />Right click to delete the
+            item.</small
+        >
+    </body>
+</html>
