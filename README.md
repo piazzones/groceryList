@@ -1,7 +1,3 @@
-<h1 align="center">
-  Grocery List
-</h1>
-
 ![grocery](https://user-images.githubusercontent.com/81590952/115267351-7685e580-a10f-11eb-8747-08cd5e74c4c1.PNG)
 
 ## 🚀 Tecnologies
