@@ -2,7 +2,7 @@
   Groceries List
 </h1>
 
-![Capturar2](https://user-images.githubusercontent.com/81590952/114775147-5b9a2680-9d47-11eb-8392-a1d04af84522.PNG)
+![grocery](https://user-images.githubusercontent.com/81590952/115267351-7685e580-a10f-11eb-8747-08cd5e74c4c1.PNG)
 
 ## 🚀 Tecnologies
 
